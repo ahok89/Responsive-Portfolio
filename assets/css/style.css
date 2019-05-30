@@ -136,16 +136,20 @@ h3, h2 {
 
 @media only screen and (max-width: 980px) {
   body {
-    background-color: lightblue;
+    background-color: rebeccapurple;
   }
 @media only screen and (max-width: 768px) {
     body {
-      background-color: lightblue;
+      background-color: rgb(187, 148, 20);
     }
 @media only screen and (max-width: 640px) {
       body {
-        background-color: lightblue;
+        background-color: rgb(38, 97, 48);
       }
+      #masthead {
+        position: static;
+      }
+}
 
 /* portfolio page */
 
@@ -191,16 +195,20 @@ h3, h2 {
 
 @media only screen and (max-width: 980px) {
   body {
-    background-color: lightblue;
+    background-color: rgb(52, 21, 163);
   }
 @media only screen and (max-width: 768px) {
     body {
-      background-color: lightblue;
+      background-color: rgb(134, 125, 84);
     }
 @media only screen and (max-width: 640px) {
       body {
-        background-color: lightblue;
+        background-color: rgb(145, 26, 82);
       }
+      #masthead {
+        position: static;
+      }
+}
 
 /* contact page */
 
@@ -248,13 +256,17 @@ input[type=submit] {
 
 @media only screen and (max-width: 980px) {
   body {
-    background-color: lightblue;
+    background-color: rgb(126, 134, 51);
   }
 @media only screen and (max-width: 768px) {
     body {
-      background-color: lightblue;
+      background-color: rgb(221, 100, 19);
     }
 @media only screen and (max-width: 640px) {
       body {
-        background-color: lightblue;
+        background-color: rgb(146, 20, 15);
       }
+      #masthead {
+        position: static;
+      }
+}
